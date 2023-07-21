@@ -1,0 +1,11 @@
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\bin\Debug\RegistrarMatricula.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\bin\Debug\RegistrarMatricula.exe
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\bin\Debug\RegistrarMatricula.pdb
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\bin\Debug\RegistrarMatricula.xml
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.exe
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.xml
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.pdb
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.CONSULTA.resources
+C:\Users\User\AppData\Local\Temporary Projects\RegistrarMatricula\obj\Debug\RegistrarMatricula.frmPRINCIPAL.resources
